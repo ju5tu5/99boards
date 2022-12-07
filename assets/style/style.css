@@ -48,7 +48,7 @@ header > button {
   padding: 0;
   border: 0;
   background: none;
-  background-image: url('/assets/icon/search.svg');
+  background-image: url('../icon/search.svg');
   background-size: 3rem;
   background-repeat: no-repeat;
   background-position: top;
@@ -61,7 +61,7 @@ header > button {
 }
 
 .close {
-  background-image: url('/assets/icon/close.svg');
+  background-image: url('../icon/close.svg');
   font-size: 0em;
 }
 
